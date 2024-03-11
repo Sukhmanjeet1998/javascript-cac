@@ -15,8 +15,10 @@
 
 
 // Non Primitive Datatypes.....
-// object
+// Object,Array,Function
 
 
 console.log(typeof undefined);
 console.log(typeof null);
+
+// Javascript is dynamic type language bcoz we didn't provide datatype name, it automatically convert it into by just checking the value. 
